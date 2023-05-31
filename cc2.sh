@@ -1,11 +1,12 @@
 #!/bin/bash
 
+
+
 # Script:   code challenge 2                   
 # Author: Raheem Sharif Reed                     
 # Date of latest revision: may 31,2023     
 # Purpose:Create a bash script that:Copies /var/log/syslog to the current working directory and Appends the current date and time to the filename
 
-#1
 
            
            
