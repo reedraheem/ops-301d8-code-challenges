@@ -7,11 +7,14 @@
 #Print the sixth through tenth element of the list.
 #Change the value of the seventh element to “onion”.
 
+favorite_boxers =["Roy jones Jr", "Floyd Mayweather Jr", "Pernell Whitaker", "Andre Ward", "Winky Wright", "Terrance Crawford", "Dmitry Bivol", "Shakur stevenson", "Thomas hearns", "James Toney"]
 
-my_list = ["Roy jones Jr", "Floyd Mayweather Jr", "Pernell Whitaker", "Andre Ward", "Winky Wright", "Terrance Crawford", "Dmitry Bivol", "Shakur stevenson", "Thomas hearns", "James Toney"]
 
-print(my_list[4])
-print(my_list[6:])
+print("Fourth element:", favorite_boxers[3])
+print("Sixth to tenth elements:", favorite_boxers[5:10])
 
-my_list[6] = "onion"
-print(my_list)
+favorite_boxers[7] = "onion"
+
+print("Updated list:", favorite_boxers)
+
+
