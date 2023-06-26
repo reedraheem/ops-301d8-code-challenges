@@ -12,7 +12,6 @@
 #Navigates to the directory input by the user and changes all files inside it to the input setting.
 #Prints to the screen the directory contents and the new permissions settings of everything in the directory.
 
-#!/bin/bash
 
 # Prompt user for input directory path
 read -p "ops-301d8-code-challenges: " directory
