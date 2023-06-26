@@ -13,7 +13,6 @@
 #The program should next use a conditional statement to evaluate the user’s input, then act according to what the user selected.
 #Use a loop to bring up the menu again after the request has been executed.
 
-#!/bin/bash
 
 while true; do
     echo "Menu:"
