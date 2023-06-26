@@ -13,7 +13,7 @@ favorite_boxers =["Roy jones Jr", "Floyd Mayweather Jr", "Pernell Whitaker", "An
 print("Fourth element:", favorite_boxers[3])
 print("Sixth to tenth elements:", favorite_boxers[5:10])
 
-favorite_boxers[7] = "onion"
+favorite_boxers[6] = "onion"
 
 print("Updated list:", favorite_boxers)
 
