@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Reference:Chat GPT Assisted
+
 
 # Script:   code challenge 4                  
 # Author: Raheem Sharif Reed                     
