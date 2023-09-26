@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 #Script: code challenge 8               
 # Author: Raheem Sharif Reed                     
 # Date of latest revision: June 7,2023     
