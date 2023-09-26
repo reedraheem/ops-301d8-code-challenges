@@ -1,4 +1,4 @@
-# Reference:Chat GPT Assisted
+#!/usr/bin/python3
 
 # Script:   code challenge 13              
 # Author: Raheem Sharif Reed                     
